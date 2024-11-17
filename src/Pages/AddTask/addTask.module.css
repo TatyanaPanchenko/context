@@ -1,0 +1,22 @@
+.form-inner {
+	margin-top: 200px;
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+input {
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 7px;
+	outline: none;
+	font-size: 18px;
+	font-family: "Roboto", sans-serif;
+	width: 300px;
+}
+
+input[type="submit"] {
+	background-color: #eee;
+	font-size: 22px;
+	font-weight: 500;
+}

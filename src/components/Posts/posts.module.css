@@ -1,0 +1,16 @@
+.list-inner {
+	padding: 15px;
+	display: flex;
+	flex-direction: column;
+	background-color: #eee;
+	border: 1px solid #ccc;
+	margin-top: 15px;
+
+}
+
+.list-title {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.list-text {}
